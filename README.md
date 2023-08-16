@@ -10,3 +10,7 @@
   | salgado   | Salgado                     | R$ 7,25 |
   | combo1    | 1 Suco e 1 Sanduíche        | R$ 9,50 |
   | combo2    | 1 Café e 1 Sanduíche        | R$ 7,50 |
+
+  DESCONTOS E TAXAS
+ - Pagamento em dinheiro tem 5% de desconto
+ - Pagamento a crédito tem acréscimo de 3% no valor total
